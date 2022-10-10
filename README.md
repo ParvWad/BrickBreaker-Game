@@ -6,4 +6,4 @@ The goal for this project was to explore animation as well as pygame. This was d
 #usage 
 ![image](https://user-images.githubusercontent.com/73033647/194959626-7b6e85e2-6900-4890-9db4-ebdac4b39bc6.png)
 
-Player 1 controls the left part of the screen using w a s d keys to direct direction. While Player 2 controls the right part of the screeen using the arrow keys to direct direction. The player must "bounce" the ball and "break" the bricks to get a score. Letting the ball fall will result in a loss of lives. 
+Player 1 controls the left part of the screen using w a s d keys to direct direction. While Player 2 controls the right part of the screeen using the arrow keys to direct direction. The player must "bounce" the ball and "break" the bricks to get a score. Letting the ball fall will result in a loss of lives. Score is tracked automatically and can stack. Example, winning with score (3) and score (2) will result in an accumulated score of (5). 
